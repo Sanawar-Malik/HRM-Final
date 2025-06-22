@@ -1,0 +1,10 @@
+# Ignore Python environment inside backend
+backend/env/
+
+# Ignore Node.js dependencies
+app/node_modules/
+# Environment variables
+.env
+
+
+
