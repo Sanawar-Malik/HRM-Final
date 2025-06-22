@@ -1,11 +1,14 @@
 # Ignore Python environment inside backend
 backend/env/
-backend/media/register/
+backend/media/
+
+
 
 # Ignore Node.js dependencies
 app/node_modules/
 # Environment variables
 .env
 
-
+# Database
+db.sqlite3
 
